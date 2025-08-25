@@ -6,4 +6,3 @@ def slice_simple():
     print(texto[0:])
 
 
-slice_simple()
