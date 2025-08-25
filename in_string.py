@@ -10,4 +10,3 @@ def check_vowels():
 	print(f'Contiene u: {"u" in nombre}')
 
 
-check_vowels() 
